@@ -1,0 +1,19 @@
+
+.imgcard{
+    width: 450px;
+    height: 350px;
+    padding: 5px;
+   
+}
+.preview-card{
+    width: 450px;
+    /* height: 550px; */
+      box-shadow: 0 0 5px black;
+       margin-top: 30px;
+    
+      
+}
+
+.linkpreviewcard{
+    text-decoration: none;
+}

@@ -1,0 +1,55 @@
+.postread-container{
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 1500px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.post-title{
+  
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+
+}
+.post-subtitle{
+    font-size:30px;
+    margin-top: 30px;
+}
+.quotes-heading{
+   
+    /* margin-left: 50px; */
+    margin-top: 20px;
+    
+}
+.post-img{
+    width: 1000px;
+    height:700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.decspost{
+    font-size: 30px;
+
+}
+.color{
+    color: rgb(25, 33, 123);
+
+}
+
+.btn-go-back{
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(20, 20, 128);
+    color: white;
+    padding:10px 25px;
+    border:none;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border-radius:30px;
+
+}
